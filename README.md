@@ -1,6 +1,7 @@
-## Hi There
+# Hi There
 
-# Personal Info
+## Personal Info
 * Thomas Feng
 * Texas A&M University BS Statistics and BS Applied Mathematics
-* 
+
+
